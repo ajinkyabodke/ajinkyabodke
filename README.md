@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently exploring *everything*
 
-- 🌱 I’m currently learning *Flutter*
+- 🌱 I’m currently learning *MERN Stack*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
