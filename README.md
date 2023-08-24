@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ajinkya Bodke</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonawane-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="sonawane-vivek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyabodke&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyabodke" /> </p>
 
 - 🔭 I’m currently exploring *everything*
 
