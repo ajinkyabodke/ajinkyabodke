@@ -31,3 +31,4 @@ Feel free to explore my repositories, learn from my code, and let's make the tec
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodke&show_icons=true&locale=en" alt="ajinkyabodke" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyabodke&layout=compact)
