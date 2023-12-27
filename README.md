@@ -5,15 +5,13 @@
 
 ## About Me
 
-With a robust background in Full Stack Web Development, specializing in the MERN stack, and a solid command over Java and object-oriented programming, I'm your go-to person for versatile technical expertise. My journey in the tech world has been guided by a passion for building brands, fostering entrepreneurship, and crafting innovative solutions that not only meet technical requirements but also drive overall business success.
+With a robust background in Full Stack Web Development, specializing in the T3 stack, and a solid command over Java and object-oriented programming, I'm your go-to person for versatile technical expertise. My journey in the tech world has been guided by a passion for building brands, fostering entrepreneurship, and crafting innovative solutions that not only meet technical requirements but also drive overall business success.
 
 ## What I Bring to the Table
 
-- **Full Stack Powerhouse**: Proficient in both front-end and back-end development, I specialize in the MERN stack (MongoDB, Express, React, Node.js). This means I can handle everything from designing user-friendly interfaces to crafting efficient server-side logic.
+- **Full Stack Powerhouse**: Proficient in both front-end and back-end development, I specialize in the T3 Stack (Next.js, Tailwind, Typescript, TRPC, Drizzle). This means I can handle everything from designing user-friendly interfaces to crafting efficient server-side logic.
 
 - **Java Aficionado**: My mastery over Java and object-oriented programming allows me to architect robust and scalable applications that stand the test of time.
-
-- **Flutter Flair**: With a background in Flutter, I've explored the exciting world of mobile app development, bringing rich and engaging experiences to users on both Android and iOS platforms.
 
 ## My Approach
 
@@ -25,7 +23,7 @@ I'm always excited to connect with fellow developers, entrepreneurs, and tech en
 
 - LinkedIn: [Ajinkya Bodke](https://www.linkedin.com/in/ajinkyabodke/)
 - Twitter: [AjinkyaBodke_](https://twitter.com/AjinkyaBodke_)
-- Email: ajinkyabodke678@gmail.com
+- Email: hey@ajinkyabodke.com
 
 Feel free to explore my repositories, learn from my code, and let's make the tech world an even better place, one commit at a time. Happy coding! 😄🚀
 
