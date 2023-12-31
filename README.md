@@ -35,3 +35,6 @@ Feel free to explore my repositories, learn from my code, and let's make the tec
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodke&show_icons=true&locale=en" alt="ajinkyabodke" /></p>
 
 <a href="https://cal.com/ajinkyabodke/15min"><img src="https://user-images.githubusercontent.com/48997634/226275754-61e8b783-4eea-4e06-8e55-8c09f2826d94.svg" height=80 /></a>
+
+
+<a href='https://www.buymeacoffee.com/ajinkyabodke' target='_blank'><img width="200" style='border:0px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
