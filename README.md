@@ -1,3 +1,4 @@
+
 ## Hi, I'm Ajinkya 👋
 
 **Product Engineer, biased toward shipping.**
@@ -32,5 +33,5 @@ Each repository reflects a bias toward learning fast and shipping something usef
 ### Get in touch
 - 🌐 Website: https://ajinkyabodke.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ajinkyabodke/  
-- 🐦 X: https://twitter.com/AjinkyaBodke_  
+- 🐦 X: [https://x.com/AjinkyaBodke_](https://x.com/AjinkyaBodke_)
 - ✉️ Email: ajinkyabodke678@gmail.com
